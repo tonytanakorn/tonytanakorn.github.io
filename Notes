@@ -1,3 +1,5 @@
 This is a special folder named 'tonytanakorn.github.io'.
-It will appear publicly at URL: https://tonytanakorn.github.io
-There can also be another '<any name>.github.io'
+It will appear publicly as an account webpage at: https://tonytanakorn.github.io
+For project webpages, a special foder name is not needed.
+But the access to the webpage will be https://tonytanakorn.github.io/<project name>
+In all cases, the settings at Settings > Pages > ... must be set appropriately.
