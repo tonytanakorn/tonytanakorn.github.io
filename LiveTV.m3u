@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1, Thai PBS Live
 https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1, Nation TV Live
+https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
